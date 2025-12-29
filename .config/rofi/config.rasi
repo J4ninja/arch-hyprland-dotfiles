@@ -42,7 +42,7 @@ mainbox {
 imagebox {
     padding:                     20px;
     background-color:            transparent;
-    background-image:            url("~/.config/backgrounds/japan-digital.jpg", height);
+    background-image:            url("~/.config/backgrounds/watercolor.jpg", height);
     orientation:                 vertical;
     children:                    [ "inputbar", "dummy", "mode-switcher" ];
 }
