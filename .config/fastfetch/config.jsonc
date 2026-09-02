@@ -28,17 +28,17 @@
             "separate": true
         },
         "disk",
-        {
-            "type": "localip",
-            "showIpv6": false,
-            "showMac": false,
-            "showSpeed": false,
-            "showMtu": false,
-            "showLoop": false,
-            "showFlags": false,
-            "showAllIps": false
-        },
-        "dns",
+        // {
+        //     "type": "localip",
+        //     "showIpv6": false,
+        //     "showMac": false,
+        //     "showSpeed": false,
+        //     "showMtu": false,
+        //     "showLoop": false,
+        //     "showFlags": false,
+        //     "showAllIps": false
+        // },
+        // "dns",
         "break",
            {
             "type": "colors",

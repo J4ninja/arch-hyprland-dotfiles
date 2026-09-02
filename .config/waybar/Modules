@@ -335,7 +335,7 @@
 	},
 	"scroll-step": 5.0,
 	"on-click": "$HOME/.config/hypr/scripts/volume.sh --toggle",
-	"on-click-right": "pavucontrol -t 3",
+	"on-click-right": "pavucontrol",
 	"on-scroll-up": "$HOME/.config/hypr/scripts/volume.sh --inc",
 	"on-scroll-down": "$HOME/.config/hypr/scripts/volume.sh --dec",
 	"tooltip-format": "{icon} {desc} | {volume}%",
@@ -384,7 +384,7 @@
 	"format": "{icon} {volume} %",
 	"format-muted": " Mute",
 	"on-click": "$HOME/.config/hypr/scripts/volume.sh --toggle",
-	"on-click-right": "pavucontrol -t 3",
+	"on-click-right": "pavucontrol -t 1",
 	"on-scroll-up": "$HOME/.config/hypr/scripts/volume.sh --inc",
 	"on-scroll-down": "$HOME/.config/hypr/scripts/volume.sh --dec",
 	"format-icons": [
